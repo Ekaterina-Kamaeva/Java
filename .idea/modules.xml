@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Файловый ввод вывод/ReadFiles/ReadFiles.iml" filepath="$PROJECT_DIR$/1. Файловый ввод вывод/ReadFiles/ReadFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Сериализация/Serialization/Serialization.iml" filepath="$PROJECT_DIR$/2. Сериализация/Serialization/Serialization.iml" />
+    </modules>
+  </component>
+</project>
