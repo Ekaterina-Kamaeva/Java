@@ -1,23 +1,25 @@
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
 
+// Наследуемся от JFrame для того, чтобы внутри класса сразу работать с компонентами формы
 public class MainForm extends JFrame {
+    // Компоненты формы создаются автоматически и мы можем к ним обращаться внутри класса
     private JButton okButton;
     private JTextArea textArea;
-    // TODO: 1. Как сделать метод-обработчик
-    //       2. Работа с Layout
-    //       3. Связь Дизайнера с кодом
+    // Важно!!! Необходимо дать имя корневому элементу!!!
+    private JPanel mainPanel;
+
     public MainForm() {
-        textArea.setSize(150, 50);
-        textArea.setLineWrap(true);
-        add(okButton, BorderLayout.SOUTH);
-        add(textArea, BorderLayout.NORTH);
+        // Устанавливаем корневой элемент
+        setContentPane(mainPanel);
         setSize(400, 200);
         setVisible(true);
+        // Устанавливаем операции закрытия приложения по умолчанию
         setDefaultCloseOperation(EXIT_ON_CLOSE);
+
+        // Обработка событий
         okButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
