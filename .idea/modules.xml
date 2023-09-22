@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/7. Загрузка классов/ClassLoaderExample/ClassLoaderExample.iml" filepath="$PROJECT_DIR$/7. Загрузка классов/ClassLoaderExample/ClassLoaderExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. Многопоточное программирование/Часть 2. Взаимная блокировка потоков, типовые сценарии применения многопоточности/Conveyor/Conveyor.iml" filepath="$PROJECT_DIR$/6. Многопоточное программирование/Часть 2. Взаимная блокировка потоков, типовые сценарии применения многопоточности/Conveyor/Conveyor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. Многопоточное программирование/Часть 2. Взаимная блокировка потоков, типовые сценарии применения многопоточности/DeadLockTest/DeadLockTest.iml" filepath="$PROJECT_DIR$/6. Многопоточное программирование/Часть 2. Взаимная блокировка потоков, типовые сценарии применения многопоточности/DeadLockTest/DeadLockTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/5. Рабочие потоки/Example 1/Example 1.iml" filepath="$PROJECT_DIR$/5. Рабочие потоки/Example 1/Example 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. Шаблоны MVC и MVP/MVCSampleUsingFrameListener/MVCSampleUsingFrameListener.iml" filepath="$PROJECT_DIR$/4. Шаблоны MVC и MVP/MVCSampleUsingFrameListener/MVCSampleUsingFrameListener.iml" />
