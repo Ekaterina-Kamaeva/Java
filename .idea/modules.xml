@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. Шаблоны MVC и MVP/MVCSampleUsingFrameListener/MVCSampleUsingFrameListener.iml" filepath="$PROJECT_DIR$/4. Шаблоны MVC и MVP/MVCSampleUsingFrameListener/MVCSampleUsingFrameListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. Шаблоны MVC и MVP/MVCSampleUsingObservable/MVCSampleUsingObservable.iml" filepath="$PROJECT_DIR$/4. Шаблоны MVC и MVP/MVCSampleUsingObservable/MVCSampleUsingObservable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8. Управление памятью в Java/Часть 1. Общие принципы распределения памяти/MemoryTest/MemoryTest.iml" filepath="$PROJECT_DIR$/8. Управление памятью в Java/Часть 1. Общие принципы распределения памяти/MemoryTest/MemoryTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Файловый ввод вывод/ReadFiles/ReadFiles.iml" filepath="$PROJECT_DIR$/1. Файловый ввод вывод/ReadFiles/ReadFiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Сериализация/Serialization/Serialization.iml" filepath="$PROJECT_DIR$/2. Сериализация/Serialization/Serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/6. Многопоточное программирование/Часть 1. Синхронизация потоков и доступ к разделяемым ресурсам/SharedBuffer/SharedBuffer.iml" filepath="$PROJECT_DIR$/6. Многопоточное программирование/Часть 1. Синхронизация потоков и доступ к разделяемым ресурсам/SharedBuffer/SharedBuffer.iml" />
